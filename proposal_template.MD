@@ -1,26 +1,29 @@
 #### *Machine Learning in FinTech*:  
-with your group suggest and research one Use case in Fintech, locate some data in this space, explore it a bit, and choose a model you'd like to work with.
+
 
 **Area of FinTech**:  
-(eg. Lending and credit decisions, fraud detection, Anti-money laundering, etc). 
+Credit Card Fraud 
 
 **Dataset researched and located**:  
-(Recommended data sources: Kaggle.com, datasetsearch.research.google.com, ask your instructor for more) 
+Kaggle.com
+https://www.kaggle.com/subhajournal/credit-card-fraud-dataset
 
 **ML Use Case**:  
-What are trying to accomplish?
+We can train ML models on a set of dataset including credit card transaction information as well as card and demographic information of the owner of the account.
 
 **ML model selected**:  
-(k-means, support-vector machine, random forest, etc)
+k-means
 
 **Reason**: 
-(what about this model suggests it's a great fit for the task above?)
+Because it offers a great shape for multi-class problems with relativly clean data,
+And The purpose of classification or cluster analysis is to ensure that different groups must have different observations as possible
 
 **Group Number # or Name**: 
+Group 2
 
 **Group Members**: 
-1. .
-2. .
-3. .
-4. .
-5. . 
+1. Areej Alserhan
+2. Amal Alshathri
+3. Kholoud Alhamdan
+4. Thamer Abanmi
+5. Turki Alanazi
