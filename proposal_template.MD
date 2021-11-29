@@ -18,7 +18,8 @@ logistic regression
 Because it offers a great shape for multi-class problems with relativly clean data,
 And The purpose of classification or cluster analysis is to ensure that different groups must have different observations as possible
 
-**Group Number**: 02 
+**Group Number**:02
+
 **Group Name**: ATK
 
 **Group Members**: 
